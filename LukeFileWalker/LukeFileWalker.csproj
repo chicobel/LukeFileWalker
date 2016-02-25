@@ -96,7 +96,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Downloads\sailracerpr-tracking-image-generator-05ec4157be97\sailracerpr-tracking-image-generator-05ec4157be97\MVVMBaseLibrary\MVVMBaseLibrary.csproj">
+    <ProjectReference Include="..\MVVMBaseLibrary\MVVMBaseLibrary.csproj">
       <Project>{5c0ba5ce-02f8-4f70-8b30-ef5db49c4140}</Project>
       <Name>MVVMBaseLibrary</Name>
     </ProjectReference>

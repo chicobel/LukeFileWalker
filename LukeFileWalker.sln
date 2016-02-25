@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LukeFileWalker", "LukeFileWalker\LukeFileWalker.csproj", "{B3860A52-AA4E-4EC1-9456-77E531DB2614}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMBaseLibrary", "..\..\..\..\Downloads\sailracerpr-tracking-image-generator-05ec4157be97\sailracerpr-tracking-image-generator-05ec4157be97\MVVMBaseLibrary\MVVMBaseLibrary.csproj", "{5C0BA5CE-02F8-4F70-8B30-EF5DB49C4140}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMBaseLibrary", "MVVMBaseLibrary\MVVMBaseLibrary.csproj", "{5C0BA5CE-02F8-4F70-8B30-EF5DB49C4140}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
